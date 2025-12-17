@@ -1,1 +1,1 @@
-day 1 linux practice 
+Day 1 Linux practice
